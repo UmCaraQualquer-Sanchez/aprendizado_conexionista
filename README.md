@@ -1,7 +1,9 @@
 FIA - Aprendizagem Conexionista
 
 Aluno: Kauã de Souza Viana
+
 Aluno: Lorenzo Augusto Da Costa Freitas
+
 Aluno: Antony Wesley Pimentel Oliveira
 
 05/11/2026
