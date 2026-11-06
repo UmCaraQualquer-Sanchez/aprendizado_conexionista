@@ -4,8 +4,6 @@ Aluno: Kauã de Souza Viana
 
 05/11/2026
 
-O código foi feito com base na página 30 do slide, onde temos um exemplo de treinamento de uma rede neural usando Python e a biblioteca NumPy.
-
 A ideia do código é mostrar como uma rede neural consegue aprender ajustando seus pesos para diminuir o erro entre os valores que ela calcula e os valores esperados.
 
 A rede possui uma camada de entrada com 1000 neurônios, uma camada oculta com 100 neurônios e uma camada de saída com 10 neurônios. Ela recebe 64 exemplos de treinamento, que são gerados aleatoriamente.
